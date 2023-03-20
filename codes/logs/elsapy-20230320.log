@@ -1,0 +1,15 @@
+2023-03-20 12:04:30,027 - elsapy.elsclient - INFO - Module loaded.
+2023-03-20 12:04:30,369 - elsapy.elsentity - INFO - Module loaded.
+2023-03-20 12:04:30,372 - elsapy.utils - INFO - Module loaded.
+2023-03-20 12:04:30,375 - elsapy.elsprofile - INFO - Module loaded.
+2023-03-20 12:04:30,378 - elsapy.elsdoc - INFO - Module loaded.
+2023-03-20 12:04:30,381 - elsapy.elssearch - INFO - Module loaded.
+2023-03-20 12:22:25,853 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0531556519301706
+2023-03-20 12:22:26,501 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0531556519301706
+2023-03-20 12:22:26,507 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0531556519301706 to file
+2023-03-20 12:22:27,501 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0032386116300544
+2023-03-20 12:22:28,646 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0032386116300544
+2023-03-20 12:22:28,652 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0032386116300544 to file
+2023-03-20 12:22:29,647 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0732312318300774
+2023-03-20 12:22:30,136 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0732312318300774
+2023-03-20 12:22:30,145 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0732312318300774 to file
