@@ -16,4 +16,4 @@ The dois of data and research articles is stored in "RawData.csv" in the subfile
 
 The blog post of this project is at https://daily008.github.io/jblog/posts/final_project-submission.html.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daily008/Tianji_final_project/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daily008/DH140_Final/HEAD)
