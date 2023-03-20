@@ -1,5 +1,18 @@
-matplotlib>=2.2
-numpy>=1.15.0, <1.21.0
-pandas
+matplotlib==3.6.2
+    # via
+    #   -r requirements.in
+    #   seaborn
+numpy==1.23.5
+    # via
+    #   -r requirements.in
+    #   contourpy
+    #   matplotlib
+    #   pandas
+    #   scipy
+    #   seaborn
+pandas==1.5.1
+    # via
+    #   -r requirements.in
+    #   seaborn
 
 
