@@ -1,0 +1,23 @@
+1. The list of the python packages that need to be installed for this project:
+
+-- pandas
+-- matplotlib
+-- numpy
+-- Levenshtein
+-- collections
+-- csv
+-- re
+-- math
+-- elsapy
+-- json
+-- xlwt
+
+2. Purposes of the codes:
+
+There are three .ipynb files in the subfile "codes" in the repository:
+
+-- The "final_project.ipynb" is the main Jupyter notebook for the final project.
+-- The "GetRawData.ipynb" is used to get the author information data from Scopous API with the inputed dois of data and research articles.
+-- The "DataProcessing.ipynb" is used to compare reformat the output of "GetRawData.ipynb", and calculate the similarity indexes between the author information of each pairs of data articles and research articles.
+
+
