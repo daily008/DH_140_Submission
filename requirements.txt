@@ -1,13 +1,3 @@
--- pandas
--- matplotlib
--- numpy
--- Levenshtein
--- collections
--- csv
--- re
--- math
--- elsapy
--- json
--- xlwt
+--- pandas matplotlib numpy ---
 
 
