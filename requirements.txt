@@ -1,12 +1,5 @@
 matplotlib
 numpy
 pandas
-elsapy
-json
-re
-csv
-xlwt
-Levenshtein
-Counter
-math
+
 
